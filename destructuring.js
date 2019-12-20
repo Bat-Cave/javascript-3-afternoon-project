@@ -122,8 +122,8 @@ const numberGroups = ({a, b, c}) => {
   }
   // var largest = 0;
   // for (let key in obj){
-  //   if(key > largest){
-  //     largest = key;
+  //   if(obj[key] > largest){
+  //     largest = obj[key];
   //   }
   // }
 }
